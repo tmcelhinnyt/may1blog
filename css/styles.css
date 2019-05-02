@@ -1,0 +1,30 @@
+h1 {
+  color: violet;
+}
+
+p {
+  color: green;
+  /* font-family: fantasy; */
+}
+
+/* h2 {
+  color: pink;
+} */
+.italic {
+  font-style: bold;
+  color: pink;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.flavor {
+  color: blue;
+  font-style: italic;
+}
+
+.smell {
+  font-size: 30px;
+  color: red;
+}
